@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Projeto-restaurante" type="Application" factoryName="Application">
+    <output_file path="$PROJECT_DIR$/../Coldrenatinho.Spring/logs" is_save="true" />
+    <option name="MAIN_CLASS_NAME" value="com.renato.projeto_cardapio.CardapioApplication" />
+    <module name="projeto" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
