@@ -69,3 +69,7 @@ node_modules
 
 #opt files
 projeto.zip
+
+#logs
+logs/
+*log
